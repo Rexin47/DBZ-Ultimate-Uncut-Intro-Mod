@@ -13,6 +13,8 @@ Features:
 
 ____________________________________________________________________________________________________
 
+Download: In the "Releases" tab on the right, click on the main zip file.
+
 Installation:
 
 For Legacy SD Version:
